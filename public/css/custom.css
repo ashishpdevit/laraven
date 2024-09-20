@@ -1,0 +1,12 @@
+/** Logo Design*/
+img.site-logo {
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+.indexaction.a:link{
+   color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
